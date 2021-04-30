@@ -1,0 +1,11 @@
+{
+    "trajectory_min_length": 1,
+    "trajectory_max_length": 100,
+    "hidden_dims": [32],
+    "batch_size": 128,
+    "t_max": 10000,
+    "env_config": {
+        "obs_dim": 4,
+        "act_dim": 2
+    }
+}
